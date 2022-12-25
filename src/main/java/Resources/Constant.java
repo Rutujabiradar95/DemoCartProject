@@ -11,6 +11,8 @@ public class Constant {
 	public static String Telephone="1994774739389";
 	public static String SuccessMsg="Success: Your account has successfully updated.";
 	//Verify Cart value constant
-	public static String SearchTextBox="iphone";
+	public static String iphone="iPhone";
+	public static String Samsung="Samsung";
+	public static String SamsungProductString="Samsung Galaxy Tab 10.1";
 	
 }
